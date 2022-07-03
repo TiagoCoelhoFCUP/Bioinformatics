@@ -1,7 +1,8 @@
 # Bioinformatics
 Projects developed under the Bioinformatics college chair during the 2020/2021 school year
 
-## Sequence Alignments
+
+## Main Project: Sequence Alignments
 In bioinformatics, a sequence alignment is a way of arranging the sequences of DNA, RNA, or protein to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between the sequences. Aligned sequences of nucleotide or amino acid residues are typically represented as rows within a matrix. Gaps are inserted between the residues so that identical or similar characters are aligned in successive columns.
 
 The alignments can be either local or global alginments, given that the very basic difference between a local and a global alignments is that in a local alignment, you try to match your query with a substring (a portion) of your subject (reference). Whereas in a global alignment you perform an end to end alignment with the subject (and therefore, you may end up with a lot of gaps in a global alignment if the sizes of query and subject are dissimilar). You may have gaps in local alignment also.
